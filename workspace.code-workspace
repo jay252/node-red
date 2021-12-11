@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Node Red"
+		},
+		{
+			"path": "../.node-red"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			".github": true,
+			".vscode": true,
+			"node_modules": true,
+			"test": true,
+			"packages/node_modules/@node-red/editor-client/public": true,
+			"SECURITY.md": true,
+			"package-lock.json": true,
+			"LICENSE": true,
+			"CONTRIBUTING.md": true,
+			"CHANGELOG.md": true,
+			".nodemonignore": true,
+			".jshintrc": true,
+			".gitignore": true,
+			".gitattributes": true,
+			".nyc_output": true,
+			"coverage/": true,
+		}
+	}
+}
